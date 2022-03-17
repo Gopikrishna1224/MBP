@@ -20,7 +20,7 @@ pipeline {
 	 }
 	}
 
-	 stage('deploycode')
+	 stage('deploy code')
 	 {
 	 when
 	 {
